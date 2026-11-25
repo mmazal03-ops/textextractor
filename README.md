@@ -1,6 +1,7 @@
 # textextractor
 "A fast and efficient Python script to extract text from PDFs and images (Hebrew &amp; English support) and save it automatically to a text file."
 (README.md
+.prettierrc.json
 # Textract - Quick OCR & PDF Extractor
 
 A lightweight tool to extract text from PDF files and images using Python, with built-in support for both English and Hebrew, and automatic `.txt` file saving.
